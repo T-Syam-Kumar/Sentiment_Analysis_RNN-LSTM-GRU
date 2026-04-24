@@ -1,4 +1,4 @@
-# 🎬 IMDB Movie Review Sentiment Analysis using RNN, LSTM, and GRU
+# IMDB Movie Review Sentiment Analysis using RNN, LSTM, and GRU
 
 This project implements **Sentiment Analysis on the IMDB Movie Review dataset** using three different **Recurrent Neural Network architectures**:
 
@@ -10,7 +10,7 @@ The models are built using **TensorFlow and Keras** to classify movie reviews as
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 Sentiment analysis is a Natural Language Processing (NLP) task used to determine whether a piece of text expresses a **positive or negative opinion**.
 
@@ -28,9 +28,9 @@ In this project:
 
 ---
 
-# 🧠 Models Implemented
+# Models Implemented
 
-## 1️⃣ Simple RNN Model
+## Simple RNN Model
 
 Architecture:
 
@@ -48,7 +48,7 @@ However, it may struggle with **long-term dependencies**.
 
 ---
 
-## 2️⃣ LSTM Model
+## LSTM Model
 
 Architecture:
 
@@ -66,7 +66,7 @@ This makes it more effective for **text and language tasks**.
 
 ---
 
-## 3️⃣ GRU Model
+## GRU Model
 
 Architecture:
 
@@ -88,7 +88,7 @@ Advantages:
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 This project uses the **IMDB Movie Review Dataset** from TensorFlow.
 
@@ -112,7 +112,7 @@ Only the **10,000 most frequent words** are used to reduce model complexity.
 
 ---
 
-# ⚙️ Technologies Used
+# Technologies Used
 
 * Python
 * TensorFlow
@@ -122,7 +122,7 @@ Only the **10,000 most frequent words** are used to reduce model complexity.
 
 ---
 
-# ⚙️ Model Training Configuration
+# Model Training Configuration
 
 | Parameter           | Value               |
 | ------------------- | ------------------- |
@@ -136,7 +136,7 @@ Only the **10,000 most frequent words** are used to reduce model complexity.
 
 ---
 
-# 📈 Expected Performance
+# Expected Performance
 
 Typical accuracy values:
 
@@ -150,7 +150,7 @@ LSTM and GRU generally perform **better than Simple RNN**.
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates:
 
@@ -164,7 +164,7 @@ This project demonstrates:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Possible improvements include:
 
@@ -176,7 +176,7 @@ Possible improvements include:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Syam Kumar**
 
