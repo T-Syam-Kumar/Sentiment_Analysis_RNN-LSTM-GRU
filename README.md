@@ -182,8 +182,4 @@ Possible improvements include:
 
 If you found this project useful, consider **starring ⭐ the repository**.
 
----
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
