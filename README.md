@@ -173,13 +173,3 @@ Possible improvements include:
 * Using **pretrained embeddings (GloVe / Word2Vec)**
 * Implementing **Attention mechanisms**
 * Deploying the model using **Streamlit**
-
----
-
-# Author
-
-**Syam Kumar**
-
-If you found this project useful, consider **starring ⭐ the repository**.
-
-
